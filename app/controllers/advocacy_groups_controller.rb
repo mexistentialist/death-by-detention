@@ -1,0 +1,2 @@
+class AdvocacyGroupsController < ApplicationController
+end

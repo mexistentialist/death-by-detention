@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  url: MyString
+  article_name: MyString
+  death_id: 1
+
+two:
+  url: MyString
+  article_name: MyString
+  death_id: 1

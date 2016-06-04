@@ -1,0 +1,2 @@
+class RepercussionsController < ApplicationController
+end

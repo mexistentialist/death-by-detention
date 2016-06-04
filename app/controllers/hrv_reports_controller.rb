@@ -1,0 +1,2 @@
+class HrvReportsController < ApplicationController
+end

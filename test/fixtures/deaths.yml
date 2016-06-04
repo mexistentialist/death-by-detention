@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  cause: MyString
+  age: 1
+  date: 2016-06-04
+  lawsuit: MyString
+  detention_center_id: 1
+  country_of_origin: MyString
+
+two:
+  first_name: MyString
+  last_name: MyString
+  cause: MyString
+  age: 1
+  date: 2016-06-04
+  lawsuit: MyString
+  detention_center_id: 1
+  country_of_origin: MyString

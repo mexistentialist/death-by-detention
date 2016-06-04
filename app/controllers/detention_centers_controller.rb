@@ -1,0 +1,2 @@
+class DetentionCentersController < ApplicationController
+end
