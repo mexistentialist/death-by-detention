@@ -28,7 +28,7 @@ Carver County Jail,600 East Fourth St.,Chaska,Carver,MN,IGSA,24,COUNTY (SHERIFF)
 Cascade County Jail (Montana),3800 Ulm North Frontage Road,Great Falls,Cascade,MT,USMS IGA,0,COUNTY (SHERIFF),COUNTY,$75,NDS,Acceptable
 Cass County Jail,336 Main Street,Plattsmouth,Cass,NE,USMS IGA,13,COUNTY (SHERIFF),COUNTY,$66.51,NDS,Pending
 Cca Central Arizona Detention Center,1155 North Pinal Parkway,Florence,Pinal,AZ,USMS IGA,0,CCA,CCA,$105.17,PBNDS 2008,Pending
-"Cca, Florence Correctional Center",1100 Bowling Road,Florence,Pinal,AZ,USMS IGA,493,CCA,CCA,$105.17,PBNDS 2008,Pending
+Florence Correctional Center,1100 Bowling Road,Florence,Pinal,AZ,USMS IGA,493,CCA,CCA,$105.17,PBNDS 2008,Pending
 Central Texas Detentionfacility,218 S. Laredo St,San Antonio,Bexar,TX,USMS IGA,0,GEO,COUNTY,$58,NDS,Acceptable
 Charleston County Detention Center,3841 Leeds Avenue,North Charleston,Charleston,SC,USMS IGA,2,COUNTY (SHERIFF),COUNTY,$55,NDS,Acceptable
 Chase County Detention Facility,301 South Walnut Street,Cottonwood Falls,Chase,KS,IGSA,25,COUNTY (SHERIFF),COUNTY,$48.5,NDS,Acceptable
@@ -64,7 +64,7 @@ Elmore County Jail,2255 E. 8Th North,Mountain Home,Elmore,ID,USMS IGA,5,COUNTY (
 Eloy Detention Center,1705 East Hanna Rd.,Eloy,Pinal,AZ,DIGSA,1496,CCA,CITY,$69.97,PBNDS 2011,Pending
 Erie County Jail,1618 Ash Street,Erie,Erie,PA,USMS IGA,6,COUNTY (CORRECTIONS),COUNTY,$75,NDS,Acceptable
 Essex County Jail,354 Doremus Avenue,Newark,Essex,NJ,IGSA,453,COUNTY (CORRECTIONS),COUNTY,$108,PBNDS 2011,Pending
-Etowah County Jail (Alabama),827 Forrest Avenue,Gadsden,Etowah,AL,USMS IGA,278,COUNTY (SHERIFF),COUNTY,$45,NDS,Pending
+Etowah County Detention Center,827 Forrest Avenue,Gadsden,Etowah,AL,USMS IGA,278,COUNTY (SHERIFF),COUNTY,$45,NDS,Pending
 Euless City Jail,1102 W. Euless Blvd.,Euless,Tarrant,TX,IGSA,20,CITY,CITY,$55,NDS,Acceptable
 Florence Service Processing Center,3250 North Pinal Parkway,Florence,Pinal,AZ,SPC,360,ASSET (GUARD),ICE,"374 (GM for FLO and FSF combined); $222.05 (1-374), $0.00 (375-717)",PBNDS 2011,Pending
 Forsyth County Jail,201 North Church Street,Winston-Salem,Forsyth,NC,USMS IGA,0,COUNTY (SHERIFF),COUNTY,$62.22,NDS,Acceptable
@@ -163,7 +163,7 @@ Rio Grande Detention Center,1001 San Rio Boulevard,Laredo,Webb,TX,USMS IGA,566,G
 Roanoke City Jail,340 Campbell Avenue Southwest,Roanoke,Roanoke,VA,IGSA,0,CITY,CITY,$46.57,NDS,Acceptable
 Rock Island County Correctional Center,1317 3Rd Avenue,Rock Island,Rock Island,IL,USMS IGA,0,COUNTY (SHERIFF),COUNTY,$45,NDS,Acceptable
 Rockingham County Jail,25 South Liberty Street,Harrisonburg,Harrisonburg City,VA,USMS IGA,0,COUNTY (SHERIFF),COUNTY,$72,NDS,Acceptable
-Rolling Plains Detention Center,118 County Road 206,Haskell,Haskell,TX,IGSA,475,EMERALD,CITY,$69.1,PBNDS 2011,Meets Standard
+Rolling Plains Correctional Facility,118 County Road 206,Haskell,Haskell,TX,IGSA,475,EMERALD,CITY,$69.1,PBNDS 2011,Meets Standard
 Saint Clair County Jail,1170 Michigan Road,Port Huron,Saint Clair,MI,IGSA,51,COUNTY (SHERIFF),COUNTY,$82,PBNDS 2008,Pending
 Saint Tammany Parish Jail,701 North Columbia Street,Covington,Saint Tammany,LA,IGSA,0,COUNTY (SHERIFF),COUNTY,$56.69,NDS,Acceptable
 Salem County Correctional Facility,125 Cemetery Road,Woodstown,County,NJ,USMS IGA,0,COUNTY (SHERIFF),COUNTY,$100,NDS,Special Review - Pre-Occupancy
@@ -178,7 +178,7 @@ Seneca County Jail,3040 South State Highway 100,Tiffin,Seneca,OH,IGSA,56,COUNTY 
 Shawnee County Department Of Corrections,501 Southeast 8Th Avenue,Topeka,Shawnee,KS,IGSA,1,COUNTY (CORRECTIONS),COUNTY,$67.85,NDS,Acceptable
 Sherburne County Jail,13880 United States Highway 10,Elk River,Sherburne,MN,USMS IGA,103,COUNTY (SHERIFF),COUNTY,$80,NDS,Pending
 South Central Regional Jail,1001 Centre Way,Charleston,Kanawha,WV,USMS IGA,8,COUNTY (CORRECTIONS),RJA,$56,NDS,Acceptable
-South Louisiana Detention Center,3843 Stagg Avenue,Basile,Evangeline,LA,IGSA,490,GEO,COUNTY,$58.02,PBNDS 2008,Pending
+South Louisiana Correctional Center,3843 Stagg Avenue,Basile,Evangeline,LA,IGSA,490,GEO,COUNTY,$58.02,PBNDS 2008,Pending
 South Texas Detention Complex,566 Veterans Drive,Pearsall,Frio,TX,CDF,1717,GEO,GEO,B4,PBNDS 2011,Pending
 Stewart Detention Center,146 Cca Road,Lumpkin,Stewart,GA,DIGSA,1762,CCA,COUNTY,$62.03,PBNDS 2011,Meets Standard
 Strafford County Corrections,266 County Farm Road,Dover,Strafford,NH,IGSA,39,COUNTY (CORRECTIONS),COUNTY,$83,PBNDS 2008,Meets Standard
@@ -210,3 +210,15 @@ York County Prison,3400 Concord Road,York,York,PA,IGSA,667,COUNTY (SHERIFF),COUN
 Yuba County Jail,215 5Th Street,Marysville,Yuba,CA,IGSA,197,COUNTY (SHERIFF),COUNTY,$75.16,NDS,Pending
 Guadalupe County Jail,2615 N Guadalupe St,Seguin,Guadalupe,TX,,,,,,,
 Wicomico County Corrections Center,411 W Naylor Mill Rd,Salisbury,Wicomico,MD,,,,,,,
+Monmouth County Correctional Institution,1 Waterworks Rd,Freehold Township,Monmouth,NJ,IGSA,,COUNTY,COUNTY,$105.00,NDS,
+Kern County Jail,1415 Truxtun Av,Bakersfield,Kern,CA,,,,,,,
+Pinal County Adult Detention Center,971 Jason Lopez Cir Bldg B,Florence,Pinal,AZ,IGSA,,,COUNTY,$59.64,NDS,
+Passaic County Jail,11 Marshall St,Paterson,Passaic,NJ,,,,,,,
+Pike County Jail,175 County Blvd,Lords Valley,Pike,PA,IGSA,,,COUNTY,$82.31,NDS,
+Lew Sterrett Justice Center,111 W Commerce St,Dallas,Dallas,TX,,,,,,,
+Otero County Prison Facility,10 Mcgregor Range Rd,Chaparral,Otero,NM,USMS IGA,,USMS,COUNTY,$61.85,,
+Harris County Jail,16715 Clayton Rd,Houston,Harris,TX,,,,,,,
+Sacramento County Jail,651 I St,Sacramento,Sacramento,CA,IGSA,,,COUNTY,$100,NDS,
+Perry County Correctional Center,4805 Hwy 80 East,Uniontown,Perry,AL,,,,,,,
+Hampton Roads Regional Jail,2690 Elmhurst Ln,Portsmouth,Hampton,VA,,,,,,,
+El Centro Service Processing Center,1115 N Imperial Ave,El Centro,,CA,,,,,,,

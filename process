@@ -1,0 +1,5 @@
+#!/bin/bash
+
+python clean_detentions.py data/detention_centers.csv data/detention_centers_cleaned.csv
+python clean_inmates.py data/inmate_deaths.csv data/inmate_deaths_cleaned.csv
+python join_names.py data/inmate_deaths.csv data/detention_centers.csv data/data_joined.csv
