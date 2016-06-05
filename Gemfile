@@ -51,5 +51,7 @@ group :development do
   gem 'spring'
 end
 
+gem 'sprockets-rails', '~> 3.0.4'
+gem 'sprockets', '~> 3.6.0'
 gem 'rails_12factor', group: :production
 ruby "2.3.0"
