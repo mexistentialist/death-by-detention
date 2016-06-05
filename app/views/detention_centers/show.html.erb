@@ -1,28 +1,67 @@
 <header class="jumbotron hero-spacer" align="center"><h1><%= @detention_center.name %></h1></header>
-
+<div class="row">
 <div class="col-1-2 col-sm-6 hero-feature">
-<table class="table table-hover">
-	<tbody>
-		<tr >
-			<td colspan="2"><h3><%= @detention_center.address_1 %>, <%=@detention_center.city.titleize%>, <%= @detention_center.state %></h3></td>
-<!-- 			<td><h3><%= @detention_center.county.titleize %> County</h3></td>
- -->		</tr>
-		<tr>
-			<td>Detention Standards:</td>
-			<td><%= @detention_center.det_standard %></td>
-		</tr>
-		<tr>
-			<td>Contract Type:</td>
-			<td><%= @detention_center.type_contract %></td>
-		</tr>
-		<tr>
-			<td colspan="2" align="center"><h2><u>Operator</u></h2></td>
-		</tr>
-		<tr>
-			<td colspan="2"><h1><%= @detention_center.operator.name %></h1></td>
-		</tr>
-	</tbody>
-</table>
+	<table class="table table-hover">
+		<tbody>
+			<tr >
+				<td colspan="2"><h3><%= @detention_center.address_1 %>, <%=@detention_center.city.titleize%>, <%= @detention_center.state %></h3></td>
+	<!-- 			<td><h3><%= @detention_center.county.titleize %> County</h3></td>
+	 -->		</tr>
+			<tr>
+				<td>Detention Standards:</td>
+				<td><%= @detention_center.det_standard %></td>
+			</tr>
+			<tr>
+				<td>Contract Type:</td>
+				<td><%= @detention_center.type_contract %></td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center"><h2><u>Operator</u></h2></td>
+			</tr>
+			<tr>
+				<td colspan="2"><h1><%= @detention_center.operator.name %></h1></td>
+			</tr>
+		</tbody>
+	</table>
 </div>
 
-<div class="col-1-2 col-sm-6 hero-feature"><h3><%= @detention_center.deaths[0].first_name %></h3></div>
+
+<div class="col-1-2 col-sm-6 hero-feature">
+	<%= image_tag "pipeline.png" %>	
+
+
+	<div class="col-1-3 col-sm-6 hero-feature" align="center">
+		<h1><%= @detention_center.pop_count %></h1>
+		<h3>PEOPLE</h3>
+	</div>
+
+	<div class="col-1-3 col-sm-6 hero-feature" align="center"> 
+		<h1>22</h1>
+		<h3>DAYS</h3>
+		<p>Average length of stay</p>
+	</div>
+
+	<div class="col-1-3 col-sm-6 hero-feature" align="center">
+		<h1><%= @detention_center.per_diem %></h1>
+		<h3>PER DAY</h3>
+	</div>
+</div>
+</div>
+
+
+<div class="row">	
+<header class="jumbotron hero-spacer" align="center"><h1>DEATHS IN DETENTION: <%= @detention_center.deaths.length %></h1></header>
+</div>
+<div class="row text-center">
+	<% @detention_center.deaths.each do |death| %>
+    <div class="col-1-3 col-sm-6 hero-feature">
+      <h3><%= death.name %></h3>
+      <p><h4>Reason</h4><%= death.cause %></p>
+    </div>
+	<% end %>
+</div>
+
+
+
+
+

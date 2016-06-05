@@ -1,65 +1,25 @@
 <br><br><br><br>
 
 <div class="container">
-    <iframe width="100%" height="520" frameborder="50" src="https://wilbertom.cartodb.com/viz/df1b09ee-2aaf-11e6-82a2-0e674067d321/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+    <iframe width="100%" height="520" frameborder="0" src="https://wilbertom.cartodb.com/viz/3186e152-2ae3-11e6-8fda-0e5db1731f59/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 </div>
 
-<h1> INDEX</h1>
 <!-- Page Features -->
 
 <div class="row text-center">
-
-    <div class="col-md-3 col-sm-6 hero-feature">
-        <div class="thumbnail">
-            <img src="http://placehold.it/800x500" alt="">
+    <% @detention_centers.each do |detention_center| %>
+        <div class="col-md-3 col-sm-6 hero-feature">
             <div class="caption">
-                <h3>Facts</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                <p>
-                    <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
+                <h3><%= detention_center.name %></h3>
+                <% unless detention_center.nil? | detention_center.pop_count == 0 %>
+                    <p><%= detention_center.pop_count %> detained here</p>
+                    <p>
+                <%end %>
+
+               <%= link_to "More Info", detention_center_show_path(detention_center.id), class: "btn btn-default" %>
                 </p>
             </div>
         </div>
-    </div>
-
-    <div class="col-md-3 col-sm-6 hero-feature">
-        <div class="thumbnail">
-            <img src="http://placehold.it/800x500" alt="">
-            <div class="caption">
-                <h3>FACTS!</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                <p>
-                    <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
-                </p>
-            </div>
-        </div>
-    </div>
-
-    <div class="col-md-3 col-sm-6 hero-feature">
-        <div class="thumbnail">
-            <img src="http://placehold.it/800x500" alt="">
-            <div class="caption">
-                <h3>MORE FACTS!!</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                <p>
-                    <a href="#" class="btn btn-primary">Buy Now!</a> <a href="#" class="btn btn-default">More Info</a>
-                </p>
-            </div>
-        </div>
-    </div>
-
-    <div class="col-md-3 col-sm-6 hero-feature">
-        <div class="thumbnail">
-            <img src="http://placehold.it/800x500" alt="">
-            <div class="caption">
-                <h3>AHHH FACTS!</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                <p>
-                    <a href="#" class="btn btn-primary">Facts!</a> <a href="#" class="btn btn-default">More Info</a>
-                </p>
-            </div>
-        </div>
-    </div>
-
+    <% end %>
 </div>
 <!-- /.row -->

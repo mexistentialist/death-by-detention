@@ -40,3 +40,12 @@
 	width:50%;
 }
 
+.all {
+	width: 100%
+}
+
+    #wrapper {
+        float: left;
+        width: 200px;
+
+
