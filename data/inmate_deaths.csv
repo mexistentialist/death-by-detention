@@ -1,167 +1,167 @@
-NAME,SEX,AGE,COUNTRY OF BIRTH,DATE OF DEATH,DETENTION CENTER,CAUSE OF DEATH,
-"ABDEULAYE, SALL",M,4/27/1956,GUINEA,2/12/2006,Piedmont Regional Jail,Hemoperitoneum due tospontaneous rupture of right renal vein,10
-"AGUILAR-ESPINOZA, JOSE",M,11/1/1955,HONDURAS,1/31/2011,Theo Lacy Facility,Natural Causes,
-"AHMAD, TANVEER",M,2/3/1962,PAKISTAN,9/9/2005,Monmouth County Jail,Occlusive Coronary Atherosclerosis,
-"ALONSO, JUAN",M,9/14/1930,GUATEMALA,1/8/2004,Columbia Care Center,Renal Failure,
-"ALVAREZ ARIAS, JOSE DE LA CONCEPCION",M,12/8/1957,CUBA,10/3/2004,(BOP) Allenwood Federal Correctional Institute,Metastic Renal Clear Cell Carcinoma,
-"ALVAREZ GOMEZ, JOSE",M,5/18/1979,HONDURAS,12/27/2008,LaSalle Detention Facility,Seizure,
-"ALVAREZ-ESQUIVEL, WALTER",M,10/4/1958,GUATEMALA,6/7/2005,Laredo Contract Detention Facility,Acute HemorrhagicCerebral Vascular Accident,
-"ANACHE-CAMPOS, LUIS",M,1/6/1957,CUBA,11/30/2004,(BOP) Devens FMC,Cardiac Arrest,
-"ARELLANO, VICTOR",M,10/10/1983,MEXICO,7/20/2007,San Pedro SPC,Sequalue of AcquiredImmune Deficiency Syndrome,
+name,sex,birthdate,country_of_origin,date,det_center,cause
+"ABDEULAYE, SALL",M,4/27/1956,GUINEA,2/12/2006,Piedmont Regional Jail,Hemoperitoneum due tospontaneous rupture of right renal vein
+"AGUILAR-ESPINOZA, JOSE",M,11/1/1955,HONDURAS,1/31/2011,Theo Lacy Facility,Natural Causes
+"AHMAD, TANVEER",M,2/3/1962,PAKISTAN,9/9/2005,Monmouth County Jail,Occlusive Coronary Atherosclerosis
+"ALONSO, JUAN",M,9/14/1930,GUATEMALA,1/8/2004,Columbia Care Center,Renal Failure
+"ALVAREZ ARIAS, JOSE DE LA CONCEPCION",M,12/8/1957,CUBA,10/3/2004,(BOP) Allenwood Federal Correctional Institute,Metastic Renal Clear Cell Carcinoma
+"ALVAREZ GOMEZ, JOSE",M,5/18/1979,HONDURAS,12/27/2008,LaSalle Detention Facility,Seizure
+"ALVAREZ-ESQUIVEL, WALTER",M,10/4/1958,GUATEMALA,6/7/2005,Laredo Contract Detention Facility,Acute HemorrhagicCerebral Vascular Accident
+"ANACHE-CAMPOS, LUIS",M,1/6/1957,CUBA,11/30/2004,(BOP) Devens FMC,Cardiac Arrest
+"ARELLANO, VICTOR",M,10/10/1983,MEXICO,7/20/2007,San Pedro SPC,Sequalue of AcquiredImmune Deficiency Syndrome
 "AYALA-GARCIA, ANTONIO",M,6/19/1937,CUBA,9/24/2004,"(BOP) Springfield Federal
-Medical Center",Renal Failure,
-"Azurida-Hernandez, Jose Manuel",M,54,Guatemala,12/24/2015,Adelanto Detention Facility,Heart attack,
-"BAH, BOUBACAR",M,1/1/1955,GUINEA,5/30/2007,elizabeth contract detention facility,Traumatic Brain Injury,
-"BAIRES, JUAN",M,4/27/1982,EL SALVADOR,12/11/2008,Kern Co. Jail Bakerfield,Self-Sustained Head Injuries,
-"BAMENGA, IRENE",F,11/10/1981,ANGOLA,7/27/2011,Albany County Jail,Cardiomyopathy,
-"Banegas-Guzman, Saul Enrique",M,46,Honduras,1/25/2016,LaSalle Detention Facility,Cardiac arrest (preliminary cause of death),
-"Barcenas-Padilla, Rafael",M,50,Mexico,4/8/2016,Unknown,Pneumonia,
-"BARNETT, EDWIN",M,7/22/1950,JAMAICA,12/8/2008,Plymouth County Correctional Facility,Sequelae of Chronic Renal Failure (on dialysis),
-"BELBACHIR, HASSIBA",F,8/24/1977,ALGERIA,3/17/2005,McHenry County Jail,Asphyxia,
-"BELL, MARJORIE ANNMARIE",F,48,JAMAICA,2/13/2014,Otay Detention Facility,Sudden Cardiac Death,
-"CANALES BACA, ROGELIO",M,3/28/1972,HONDURAS,8/7/2008,Pinal County Jail,Asphyxia,
-"CARLOS-CORTEZ, RAUDEL",M,9/17/1984,MEXICO,3/10/2006,Mira Loma Detention Ctr.,Asphyxia,
-"CARLOS, TIOMBE KIMANA",F,34,ANTIGUA- BARBUDA,10/23/2013,York County Prison,Suicide by Hanging,
-"CASTRO-JIMENEZ, RENE",M,8/26/1939,CUBA,8/15/2006,(BOP) Devens FMC,Coronary Artery Athlersclerosis,
-"CERVANTES-CORONA, JESUS",M,7/16/1964,MEXICO,11/19/2006,Northwest Detention Center,Atherosclerotic Coronary Artery Disease,
-"CHAVEZ-TORRES, MARIO FRANCISCO",M,11/10/1979,COLOMBIA,12/13/2006,Eloy Detention Center,Ruptured Arteriovenous Malformation Midbrain,
-"COGLE-DEL PINO, JULIAN",M,2/17/1938,CUBA,7/5/2010,(BOP) Butner,Cancer,
-"CONTRERAS-DOMINGUEZ, ROSA ISELA",F,9/17/1971,MEXICO,9/8/2007,el paso service processing center,Pulmonary Thromboembolism,
-"CORONADO-GABRIEL, CLAUDIO",M,4/9/1979,GUATEMALA,12/1/2009,LaSalle Detention Facility,Acute Cerebral Vascular Incident,
-"CORREOSO-JAY, CONRADO",M,2/19/1941,CUBA,1/31/2005,(BOP) Butner,Complications of Metastic Prostate Cancer,
-"COTA-DOMINGO, MANUEL",M,1/12/1978,GUATEMALA,12/23/2012,Eloy Detention Center,Diabetes,
-"CRUZ -SILVA, ARNOLDO",M,5/6/1956,CUBA,10/5/2009,Port Isabel SPC,Cardiac Arrest,
-"CRUZ GARCIA, RENE",M,3/12/1952,CUBA,11/6/2005,(BOP) Butner Medical Center _ Butner,Non-Small Cell Lung Cancer,
-"DANTICA, JOSEPH",M,2/7/1923,HAITI,4/11/2004,Krome Service Processing Center,Acute and Chronic Pancreatitis,
-"DAWOOD, NAIL YOURSEF",M,8/13/1966,IRAQ,7/21/2008,Eloy Detention Center,Coronary Artery Vasculitis,
-"DE ARAUJO, EDIMAR",M,10/9/1972,BRAZIL,7/8/2007,Providence RI Field Office,Acute Intoxication due tothe Combined Effects of Cocaine and Hydroxyzine,
-"DELAPAZ, EDUARDO",M,10/13/1935,MEXICO,9/27/2005,Columbia Care Center,Acute Cerebral Vascular Accident,
-"DENIZ-SAHAGUN, JOSE DE JESUS",M,31,MEXICO,5/20/2015,Eloy Detention Center,Suicide by Asphyxia,
-"DIAZ-SALGADO, ALEJANDRO",M,5/22/1959,CUBA,3/2/2008,Basile Detention Ctr,Multi-System Organ Failure,
-"DOMINGUEZ-VALIVIA, FERNANDO",M,5/10/1953,MEXICO,4/3/2012,Adelanto Correctional Facility,Pneumonia,
-"DUBEGEL-PAEZ, LUIS",M,7/31/1947,CUBA,3/14/2008,Rolling Plains Detention Ctr,Hypertension andAthersclerotic Heart Disease,
-"ENRIQUEZ-BETANCOURT, N",M,5/21/1949,CUBA,11/8/2004,Etowah County Detention Center,Arteriosclerotic Heart Disease,
-"FANKEU, SAMOU",M,6/16/1966,CAMEROON,11/5/2004,INS Airport Hold,AIDS,
+Medical Center",Renal Failure
+"Azurida-Hernandez, Jose Manuel",M,54,Guatemala,12/24/2015,Adelanto Detention Facility,Heart attack
+"BAH, BOUBACAR",M,1/1/1955,GUINEA,5/30/2007,elizabeth contract detention facility,Traumatic Brain Injury
+"BAIRES, JUAN",M,4/27/1982,EL SALVADOR,12/11/2008,Kern Co. Jail Bakerfield,Self-Sustained Head Injuries
+"BAMENGA, IRENE",F,11/10/1981,ANGOLA,7/27/2011,Albany County Jail,Cardiomyopathy
+"Banegas-Guzman, Saul Enrique",M,46,Honduras,1/25/2016,LaSalle Detention Facility,Cardiac arrest (preliminary cause of death)
+"Barcenas-Padilla, Rafael",M,50,Mexico,4/8/2016,Unknown,Pneumonia
+"BARNETT, EDWIN",M,7/22/1950,JAMAICA,12/8/2008,Plymouth County Correctional Facility,Sequelae of Chronic Renal Failure (on dialysis)
+"BELBACHIR, HASSIBA",F,8/24/1977,ALGERIA,3/17/2005,McHenry County Jail,Asphyxia
+"BELL, MARJORIE ANNMARIE",F,48,JAMAICA,2/13/2014,Otay Detention Facility,Sudden Cardiac Death
+"CANALES BACA, ROGELIO",M,3/28/1972,HONDURAS,8/7/2008,Pinal County Jail,Asphyxia
+"CARLOS-CORTEZ, RAUDEL",M,9/17/1984,MEXICO,3/10/2006,Mira Loma Detention Ctr.,Asphyxia
+"CARLOS, TIOMBE KIMANA",F,34,ANTIGUA- BARBUDA,10/23/2013,York County Prison,Suicide by Hanging
+"CASTRO-JIMENEZ, RENE",M,8/26/1939,CUBA,8/15/2006,(BOP) Devens FMC,Coronary Artery Athlersclerosis
+"CERVANTES-CORONA, JESUS",M,7/16/1964,MEXICO,11/19/2006,Northwest Detention Center,Atherosclerotic Coronary Artery Disease
+"CHAVEZ-TORRES, MARIO FRANCISCO",M,11/10/1979,COLOMBIA,12/13/2006,Eloy Detention Center,Ruptured Arteriovenous Malformation Midbrain
+"COGLE-DEL PINO, JULIAN",M,2/17/1938,CUBA,7/5/2010,(BOP) Butner,Cancer
+"CONTRERAS-DOMINGUEZ, ROSA ISELA",F,9/17/1971,MEXICO,9/8/2007,el paso service processing center,Pulmonary Thromboembolism
+"CORONADO-GABRIEL, CLAUDIO",M,4/9/1979,GUATEMALA,12/1/2009,LaSalle Detention Facility,Acute Cerebral Vascular Incident
+"CORREOSO-JAY, CONRADO",M,2/19/1941,CUBA,1/31/2005,(BOP) Butner,Complications of Metastic Prostate Cancer
+"COTA-DOMINGO, MANUEL",M,1/12/1978,GUATEMALA,12/23/2012,Eloy Detention Center,Diabetes
+"CRUZ -SILVA, ARNOLDO",M,5/6/1956,CUBA,10/5/2009,Port Isabel SPC,Cardiac Arrest
+"CRUZ GARCIA, RENE",M,3/12/1952,CUBA,11/6/2005,(BOP) Butner Medical Center _ Butner,Non-Small Cell Lung Cancer
+"DANTICA, JOSEPH",M,2/7/1923,HAITI,4/11/2004,Krome Service Processing Center,Acute and Chronic Pancreatitis
+"DAWOOD, NAIL YOURSEF",M,8/13/1966,IRAQ,7/21/2008,Eloy Detention Center,Coronary Artery Vasculitis
+"DE ARAUJO, EDIMAR",M,10/9/1972,BRAZIL,7/8/2007,Providence RI Field Office,Acute Intoxication due tothe Combined Effects of Cocaine and Hydroxyzine
+"DELAPAZ, EDUARDO",M,10/13/1935,MEXICO,9/27/2005,Columbia Care Center,Acute Cerebral Vascular Accident
+"DENIZ-SAHAGUN, JOSE DE JESUS",M,31,MEXICO,5/20/2015,Eloy Detention Center,Suicide by Asphyxia
+"DIAZ-SALGADO, ALEJANDRO",M,5/22/1959,CUBA,3/2/2008,Basile Detention Ctr,Multi-System Organ Failure
+"DOMINGUEZ-VALIVIA, FERNANDO",M,5/10/1953,MEXICO,4/3/2012,Adelanto Correctional Facility,Pneumonia
+"DUBEGEL-PAEZ, LUIS",M,7/31/1947,CUBA,3/14/2008,Rolling Plains Detention Ctr,Hypertension andAthersclerotic Heart Disease
+"ENRIQUEZ-BETANCOURT, N",M,5/21/1949,CUBA,11/8/2004,Etowah County Detention Center,Arteriosclerotic Heart Disease
+"FANKEU, SAMOU",M,6/16/1966,CAMEROON,11/5/2004,INS Airport Hold,AIDS
 "FIGUEREDO-LOPEZ, JUAN",M,6/8/1958,CUBA,5/29/2004,"(BOP) Springfield Federal
-Medical Center",Acute Pulmonary Embolis,
-"FILS-AIME, YVEL",M,1/3/1956,HAITI,11/22/2004,Hampton Roads Regional Jail,Drowning,
-"FLORES-SEGURA, JUAN PABLO",M,9/9/1980,MEXICO,5/30/2012,San Bernadino Hold Room,Cardian Arrest,
-"FUNEZ OCHOA, CARLOS",M,30,HONDURAS,4/23/2015,Port Isabel SPC,Pending,
-"Garcia-Hernandez, Juan",M,39,Mexico,9/15/2015,Florence Detention Center,Pending,
-"GARCIA-HUEZO, WELMER ALBERTO",M,24,EL SALVADOR,3/8/2014,Rio Grande Detention Center,Pending,
-"GARCIA-MALDANADO, JORGE",M,40,GUATEMALA,4/30/2013,Eloy Detention Center,Suicide by Hanging,
-"GARCIA-MEJIA, GEOVANNY",M,3/18/1979,HONDURAS,3/18/2006,Newton Co. Correctional Center Newton,Asphyxia,
-"GARCIA-SANCHEZ, FELIPE",M,11/19/1984,COLOMBIA,2/13/2006,(BOP) Oakdale,Asphyxia,
-"GOMEZ-VASQUEZ, ERNESTO",M,10/10/1979,GUATEMALA,5/3/2010,Mira Loma Detention Ctr.,Multiple Conditions,
-"GONZALEZ_BAEZ, CESAR",M,2/2/1972,MEXICO,5/12/2007,Mira Loma Detention Ctr.,Electrocution,
-"GRACIDA-CONTE, PABLO",M,3/9/1957,MEXICO,10/30/2011,Eloy Detention Center,Congestive Heart Failure,
-"GUADALUPE-GONZALES, ELSA",F,24,GUATEMALA,4/28/2013,Eloy Detention Center,Suicide by Hanging,
-"GUEVARA-LAZARO, ALEJANDRO",M,3/4/1986,MEXICO,8/13/2007,el paso service processing center,Ruptured BerryAneurysm of the Right Middle Cerebral Artery,
-"GUMAYAGAY, PEDRO",M,5/27/1957,PHILIPPINES,1/29/2008,Stewart Detention Center,Metastic Adenocarcinoma of Lungs,
-"GUO, QI GEN",M,6/9/1963,CHINA,2/23/2011,Clinton County Correctional Facility,Asphyxia Suicide,
-"GUTIERREZ, RAMIRO",M,2/28/1966,MEXICO,1/17/2004,Sacramento County Jail,Upper Gastrointestinal Tract Bleed,
-"HEO, SUNG SOO",M,2/13/1954,KOREA,2/16/2005,Passaic County Jail,Asphyxia,
-"HERNANDEZ-GOMEZ, JOSE ANTONIO",M,1/24/1944,MEXICO,5/11/2010,Broadview Service Staging Area (BSSA),Liver Failure,
-"HERNANDEZ-VALENCIA, JOSE JAVIER",M,44,MEXICO,12/4/2014,Houston Contract Detention Facility,Complications of disseminated pulmonary tuberculosis,
-"HERNANDEZ, MIGUEL ANGEL",M,12/24/1956,EL SALVADOR,4/28/2011,North Georgia Detention Center,Heart attack,
-"HERNANDEZ, WILFREDO",M,1/20/1939,CUBA,3/3/2004,Columbia Care Center,Coronary Artery Disease,
-"HERRERA-LIMAS, PEDRO",M,11/29/1972,CUBA,12/15/2004,York County Prison,Carcinoma of Lung,
-"HERRERA-TERAN, JOSE",M,4/12/1933,CUBA,6/15/2004,Pike County Jail,Myocardial Infarction,
-"HOLOWIENKO, KAZIMIERZ",M,4/19/1956,POLAND,6/16/2010,Columbia Care Center,Cancer,
-"INAMAGUA-MERCHA, MARIA",F,11/19/1975,ECUADOR,4/4/2006,Ramsey ADC Annex,Neurocysticercosis,
-"JIMENEZ-ROJAS, SERGIO",M,5/15/1984,MEXICO,7/2/2009,Tensas Parish Detention Center,HIV Complications,
-"JIMON TINIGUARDO, ROLANDO",M,10/5/1989,GUATEMALA,9/30/2009,Columbia Care Center,Diabetes Complications,
-"JORRIN-MILLER, DANIEL",M,7/21/1951,CUBA,4/11/2003,San Pedro SPC,Hypertensive Cardiovascular Disease,
-Jose Leonardo Lemus Rajo,M,23,El Salvador,5/2/2016,krome service processing center,complications as a result of alcohol withdrawal (suspected),
-"JOSEPH, VALERY",M,7/7/1984,HAITI,6/20/2008,Glades Detention Center,Seizure Disorder,
-"KENLEY, SANDRA MARINA",F,5/3/1953,BARBADOS,12/18/2005,Hampton Roads Regional Jail,Hypertensive Cardiovascular Disease,
-"KIM, YOUNG SOOK",F,11/5/1948,KOREA,11/9/2006,Bernalillo County Detention Ctr,Widely Metastatic Pancratic Cancer,
+Medical Center",Acute Pulmonary Embolis
+"FILS-AIME, YVEL",M,1/3/1956,HAITI,11/22/2004,Hampton Roads Regional Jail,Drowning
+"FLORES-SEGURA, JUAN PABLO",M,9/9/1980,MEXICO,5/30/2012,San Bernadino Hold Room,Cardian Arrest
+"FUNEZ OCHOA, CARLOS",M,30,HONDURAS,4/23/2015,Port Isabel SPC,Pending
+"Garcia-Hernandez, Juan",M,39,Mexico,9/15/2015,Florence Detention Center,Pending
+"GARCIA-HUEZO, WELMER ALBERTO",M,24,EL SALVADOR,3/8/2014,Rio Grande Detention Center,Pending
+"GARCIA-MALDANADO, JORGE",M,40,GUATEMALA,4/30/2013,Eloy Detention Center,Suicide by Hanging
+"GARCIA-MEJIA, GEOVANNY",M,3/18/1979,HONDURAS,3/18/2006,Newton Co. Correctional Center Newton,Asphyxia
+"GARCIA-SANCHEZ, FELIPE",M,11/19/1984,COLOMBIA,2/13/2006,(BOP) Oakdale,Asphyxia
+"GOMEZ-VASQUEZ, ERNESTO",M,10/10/1979,GUATEMALA,5/3/2010,Mira Loma Detention Ctr.,Multiple Conditions
+"GONZALEZ_BAEZ, CESAR",M,2/2/1972,MEXICO,5/12/2007,Mira Loma Detention Ctr.,Electrocution
+"GRACIDA-CONTE, PABLO",M,3/9/1957,MEXICO,10/30/2011,Eloy Detention Center,Congestive Heart Failure
+"GUADALUPE-GONZALES, ELSA",F,24,GUATEMALA,4/28/2013,Eloy Detention Center,Suicide by Hanging
+"GUEVARA-LAZARO, ALEJANDRO",M,3/4/1986,MEXICO,8/13/2007,el paso service processing center,Ruptured BerryAneurysm of the Right Middle Cerebral Artery
+"GUMAYAGAY, PEDRO",M,5/27/1957,PHILIPPINES,1/29/2008,Stewart Detention Center,Metastic Adenocarcinoma of Lungs
+"GUO, QI GEN",M,6/9/1963,CHINA,2/23/2011,Clinton County Correctional Facility,Asphyxia Suicide
+"GUTIERREZ, RAMIRO",M,2/28/1966,MEXICO,1/17/2004,Sacramento County Jail,Upper Gastrointestinal Tract Bleed
+"HEO, SUNG SOO",M,2/13/1954,KOREA,2/16/2005,Passaic County Jail,Asphyxia
+"HERNANDEZ-GOMEZ, JOSE ANTONIO",M,1/24/1944,MEXICO,5/11/2010,Broadview Service Staging Area (BSSA),Liver Failure
+"HERNANDEZ-VALENCIA, JOSE JAVIER",M,44,MEXICO,12/4/2014,Houston Contract Detention Facility,Complications of disseminated pulmonary tuberculosis
+"HERNANDEZ, MIGUEL ANGEL",M,12/24/1956,EL SALVADOR,4/28/2011,North Georgia Detention Center,Heart attack
+"HERNANDEZ, WILFREDO",M,1/20/1939,CUBA,3/3/2004,Columbia Care Center,Coronary Artery Disease
+"HERRERA-LIMAS, PEDRO",M,11/29/1972,CUBA,12/15/2004,York County Prison,Carcinoma of Lung
+"HERRERA-TERAN, JOSE",M,4/12/1933,CUBA,6/15/2004,Pike County Jail,Myocardial Infarction
+"HOLOWIENKO, KAZIMIERZ",M,4/19/1956,POLAND,6/16/2010,Columbia Care Center,Cancer
+"INAMAGUA-MERCHA, MARIA",F,11/19/1975,ECUADOR,4/4/2006,Ramsey ADC Annex,Neurocysticercosis
+"JIMENEZ-ROJAS, SERGIO",M,5/15/1984,MEXICO,7/2/2009,Tensas Parish Detention Center,HIV Complications
+"JIMON TINIGUARDO, ROLANDO",M,10/5/1989,GUATEMALA,9/30/2009,Columbia Care Center,Diabetes Complications
+"JORRIN-MILLER, DANIEL",M,7/21/1951,CUBA,4/11/2003,San Pedro SPC,Hypertensive Cardiovascular Disease
+Jose Leonardo Lemus Rajo,M,23,El Salvador,5/2/2016,krome service processing center,complications as a result of alcohol withdrawal (suspected)
+"JOSEPH, VALERY",M,7/7/1984,HAITI,6/20/2008,Glades Detention Center,Seizure Disorder
+"KENLEY, SANDRA MARINA",F,5/3/1953,BARBADOS,12/18/2005,Hampton Roads Regional Jail,Hypertensive Cardiovascular Disease
+"KIM, YOUNG SOOK",F,11/5/1948,KOREA,11/9/2006,Bernalillo County Detention Ctr,Widely Metastatic Pancratic Cancer
 "LAZANO-BLANCO, JORGE",M,4/22/1955,CUBA,3/6/2006,"(BOP) Springfield Federal
-Medical Center",Severe Emphysema,
+Medical Center",Severe Emphysema
 "LAZO REINOSO, SILVIO",M,9/10/1954,CUBA,7/4/2005,"(BOP) Springfield Federal
-Medical Center",Pancreatic Cancer,
-"LEDESMAN-GUERREO, ROBERTO",M,10/10/1933,MEXICO,2/12/2005,Otay Detention Facility,Cardiopulmonary Arrest,
-"LEYVA-ARJONA, ARGELIO",M,6/18/1953,CUBA,5/1/2004,(BOP) Victorville,Asphyxia,
-"LINDE-CEPERO, ALBERTO",M,8/14/1940,CUBA,12/20/2003,Columbia Care Center,Brain Tumor Calioblastoma,
-"LOPEZ RUELAS, ELIAS",M,2/16/1950,MEXICO,4/1/2005,Eloy Detention Center,Cirrhosis of Unclear Etiology,
-"LOPEZ-GREGORIO, JOSE",M,1/1/1974,GUATEMALA,9/29/2006,Eloy Detention Center,Asphyxia,
-"LOPEZ-LARA, JOSE",M,10/20/1948,MEXICO,10/24/2004,Eloy Detention Center,Cerebral Infarct,
-"MANDZA, EVALIN-ALI",M,12/5/1965,GABON,12/4/2012,Denver Contract Detention Facility,"Myocardial Infarction,Severe Left Main Coronary Artery Stenosis",
-"MARRERO-ABREO, DOMINGO",M,2/22/1943,CUBA,11/15/2005,San Pedro SPC,Acute Myocardial Infarction,
-"MARTINEZ MEDINA, ROBERTO",M,6/7/1969,MEXICO,11/3/2009,Stewart Detention Center,Cardiac Arrest,
-"MARTINEZ-RIVAS, ANTONIO",M,11/19/1961,MEXICO,4/10/2006,Houston Contract Detention Facility,Asphyxia,
-"MARTINEZ, JOSE ALBERTO",M,1/24/1957,DOMINICAN REPUBLIC,7/28/2004,Hampton Roads Regional Jail,Sepsis,
-"MARTINEZ, JULIO",M,9/21/1956,MEXICO,4/1/2009,Otay Detention Facility,Lymphatic Cancer,
-"MEJIA VICENTES, SEBASTIAN",M,2/25/1977,MEXICO,8/22/2004,Hampton Roads Regional Jail,Asphyxia,
-"MENDEZ-BACCA, CARLOS",M,9/4/1974,HONDURAS,3/19/2004,Guadalupe County Jail,AIDS,
-"MENDEZ-HERNANDEZ, FEDERICO",M,28,GUATEMALA,11/6/2013,Brooks county detention center,Rabies,
-"MENDEZ, ENRIQUE",M,8/23/1933,MEXICO,6/14/2004,EL Centro SPC,Metastic Carcinoma of Prostate Gland,
-"MILITEC, AMRA",F,2/15/1964,BOSNIA,3/20/2011,Weber County Jail,Chronic colitis/ Atrial fibrillation,
-"MORALES-RAMOS, RAUL ERNESTO",M,44,EL SALVADOR,6/4/2015,Adelanto Detention Facility,Pending,
-"MOSLEY, HECTOR",M,2/25/1947,PANAMA,2/27/2004,Columbia Care Center,AIDS,
-"MPONDA, CLEMENTE NTANGOLA",M,27,MOZAMBIQUE,2/9/2013,Houston Contract Detention Facility,Undetermined,
-"MURPHY, VINCENT",M,6/5/1946,JAMAICA,4/2/2006,suffolk county house of corrections,Hypertensive Cardiovascular Disease,
-NAME,SEX,AGE,COUNTRY OF BIRTH,DATE OF DEATH,DETENTION_FAC_NAME,CAUSE_DEATH,
-"NAND, MAYA (AKA NARID, MAYA)",M,2/24/1948,FIJI,2/2/2005,Eloy Detention Center,Cardiac Arrest,
-"NAVARRETTE-QUINTANA, MARCOS",M,37,MEXICO,6/18/2015,El Paso County Criminal Justice Center,Pending,
-"NEGUSSE, HULUF",M,9/2/1984,ETHIOPIA,8/14/2009,Wakulla County Jail,Cardiac Arrest,
-"NEWBOROUGH, GUIDO",M,4/21/1960,GERMANY,11/28/2008,Piedmont Regional Jail,Meningitis/HIV/ Pneumonia,
-"NG, HIU LUI",M,8/3/1974,CHINA,6/8/2008,Wyatt Detention Ctr,Complications ofMetastatic HepatocellularCA,
-"NGUYEN, NHO THI",F,61,VIETNAM,2/7/2015,Houston Contract Detention Facility,Pending,
-"OBEY, EVELYN",F,4/4/1973,LIBERIA,12/3/2010,York County Prison,Cancer,
-"ORTIZ-MATAMOROS, PABLO",M,11/24/1987,HONDURAS,8/2/2013,Joe Corley Detention Facility,Shock,
-"OSMAN, YUSIF",M,1/7/1972,GHANA,6/27/2006,Otay Detention Facility,Coronary Artery Vasculitis,
-"OWUSU, EMMANUEL",M,1/10/1946,GHANA,6/10/2008,Eloy Detention Center,Suicide by Hanging,
-"PADILLA-PEREZ, SEBASTIAN",M,3/4/1938,CUBA,11/21/2009,York County Prison,Leukemia,
-"PALOMO-RODRIQUEZ, JUAN",M,9/20/1980,MEXICO,1/13/2011,Houston Contract Detention Facility,Acute Coronary Disease,
-"PEREZ-AYALA, MANUEL",M,12/24/1949,CUBA,3/14/2004,(BOP) Florence,Sudden Cardiac Death,
+Medical Center",Pancreatic Cancer
+"LEDESMAN-GUERREO, ROBERTO",M,10/10/1933,MEXICO,2/12/2005,Otay Detention Facility,Cardiopulmonary Arrest
+"LEYVA-ARJONA, ARGELIO",M,6/18/1953,CUBA,5/1/2004,(BOP) Victorville,Asphyxia
+"LINDE-CEPERO, ALBERTO",M,8/14/1940,CUBA,12/20/2003,Columbia Care Center,Brain Tumor Calioblastoma
+"LOPEZ RUELAS, ELIAS",M,2/16/1950,MEXICO,4/1/2005,Eloy Detention Center,Cirrhosis of Unclear Etiology
+"LOPEZ-GREGORIO, JOSE",M,1/1/1974,GUATEMALA,9/29/2006,Eloy Detention Center,Asphyxia
+"LOPEZ-LARA, JOSE",M,10/20/1948,MEXICO,10/24/2004,Eloy Detention Center,Cerebral Infarct
+"MANDZA, EVALIN-ALI",M,12/5/1965,GABON,12/4/2012,Denver Contract Detention Facility,"Myocardial Infarction Severe Left Main Coronary Artery Stenosis"
+"MARRERO-ABREO, DOMINGO",M,2/22/1943,CUBA,11/15/2005,San Pedro SPC,Acute Myocardial Infarction
+"MARTINEZ MEDINA, ROBERTO",M,6/7/1969,MEXICO,11/3/2009,Stewart Detention Center,Cardiac Arrest
+"MARTINEZ-RIVAS, ANTONIO",M,11/19/1961,MEXICO,4/10/2006,Houston Contract Detention Facility,Asphyxia
+"MARTINEZ, JOSE ALBERTO",M,1/24/1957,DOMINICAN REPUBLIC,7/28/2004,Hampton Roads Regional Jail,Sepsis
+"MARTINEZ, JULIO",M,9/21/1956,MEXICO,4/1/2009,Otay Detention Facility,Lymphatic Cancer
+"MEJIA VICENTES, SEBASTIAN",M,2/25/1977,MEXICO,8/22/2004,Hampton Roads Regional Jail,Asphyxia
+"MENDEZ-BACCA, CARLOS",M,9/4/1974,HONDURAS,3/19/2004,Guadalupe County Jail,AIDS
+"MENDEZ-HERNANDEZ, FEDERICO",M,28,GUATEMALA,11/6/2013,Brooks county detention center,Rabies
+"MENDEZ, ENRIQUE",M,8/23/1933,MEXICO,6/14/2004,EL Centro SPC,Metastic Carcinoma of Prostate Gland
+"MILITEC, AMRA",F,2/15/1964,BOSNIA,3/20/2011,Weber County Jail,Chronic colitis/ Atrial fibrillation
+"MORALES-RAMOS, RAUL ERNESTO",M,44,EL SALVADOR,6/4/2015,Adelanto Detention Facility,Pending
+"MOSLEY, HECTOR",M,2/25/1947,PANAMA,2/27/2004,Columbia Care Center,AIDS
+"MPONDA, CLEMENTE NTANGOLA",M,27,MOZAMBIQUE,2/9/2013,Houston Contract Detention Facility,Undetermined
+"MURPHY, VINCENT",M,6/5/1946,JAMAICA,4/2/2006,suffolk county house of corrections,Hypertensive Cardiovascular Disease
+NAME,SEX,AGE,COUNTRY OF BIRTH,DATE OF DEATH,DETENTION_FAC_NAME,CAUSE_DEATH
+"NAND, MAYA (AKA NARID, MAYA)",M,2/24/1948,FIJI,2/2/2005,Eloy Detention Center,Cardiac Arrest
+"NAVARRETTE-QUINTANA, MARCOS",M,37,MEXICO,6/18/2015,El Paso County Criminal Justice Center,Pending
+"NEGUSSE, HULUF",M,9/2/1984,ETHIOPIA,8/14/2009,Wakulla County Jail,Cardiac Arrest
+"NEWBOROUGH, GUIDO",M,4/21/1960,GERMANY,11/28/2008,Piedmont Regional Jail,Meningitis/HIV/ Pneumonia
+"NG, HIU LUI",M,8/3/1974,CHINA,6/8/2008,Wyatt Detention Ctr,Complications ofMetastatic HepatocellularCA
+"NGUYEN, NHO THI",F,61,VIETNAM,2/7/2015,Houston Contract Detention Facility,Pending
+"OBEY, EVELYN",F,4/4/1973,LIBERIA,12/3/2010,York County Prison,Cancer
+"ORTIZ-MATAMOROS, PABLO",M,11/24/1987,HONDURAS,8/2/2013,Joe Corley Detention Facility,Shock
+"OSMAN, YUSIF",M,1/7/1972,GHANA,6/27/2006,Otay Detention Facility,Coronary Artery Vasculitis
+"OWUSU, EMMANUEL",M,1/10/1946,GHANA,6/10/2008,Eloy Detention Center,Suicide by Hanging
+"PADILLA-PEREZ, SEBASTIAN",M,3/4/1938,CUBA,11/21/2009,York County Prison,Leukemia
+"PALOMO-RODRIQUEZ, JUAN",M,9/20/1980,MEXICO,1/13/2011,Houston Contract Detention Facility,Acute Coronary Disease
+"PEREZ-AYALA, MANUEL",M,12/24/1949,CUBA,3/14/2004,(BOP) Florence,Sudden Cardiac Death
 "POLANCO-MOLINA, ANGEL",M,8/2/1952,CUBA,3/30/2006,"(BOP) Springfield Federal
-Medical Center",Pulmonary Embolus and Cardiac Arrest,
-"POPOOLA, ADETUNJI",M,8/10/1955,NIGERIA,2/2/2004,Dallas County Jail,Cardia Arrhythmia,
-"PRADO-ARENCILIA, REINALDO",M,11/10/1967,CUBA,3/10/2005,Houston Contract Detention Facility,Seizure Disorder of Unknown Etiology,
-"RAMIREZ-RAMIREZ, ANIBAL",M,4/15/1976,EL SALVADOR,2/10/2011,Immigration Centers of America Farmville,Liver Failure,
-"RAMIREZ-REYES, VICTOR",M,4/25/1955,ECUADOR,9/26/2011,elizabeth contract detention facility,Hypertensive andatherosclerotic cardiovascular disease,
-"REYES-ALTIMIRANO, SIMON",M,3/24/1979,HONDURAS,12/10/2004,el paso service processing center,Brain Tumor,
-"REYES-ZALAYA, JOSE NELSON",M,1/15/1982,EL SALVADOR,7/17/2010,Orleans Parish Sheriff,Cancer,
-"RIOZ-MARTINEZ, CEZAR",M,9/9/1978,MEXICO,2/13/2004,Frio County Jail,Asphyxia,
-"RIVERA-ROMERO, MAURO",M,1/10/1968,EL SALVADOR,5/10/2011,el paso service processing center,HIV complications (presumed),
-"ROCKWELL, PETER GEORGE CARLYSLE",M,46,CANADA,2/22/2014,Houston Contract Detention Facility,Hypertensive Cardiovascular Disease,
-"RODRIGUEZ CASTRO, WALTER",M,6/21/1977,EL SALVADOR,4/23/2006,Kern Co. Jail Bakerfield,Cryptocaccal Meningitis,
-"RODRIGUEZ-GONZALEZ, MIGUEL",M,1/19/1930,MEXICO,5/21/2006,San Pedro SPC,Sequelae of Chronic Renal Failure,
-"RODRIGUEZ-SOLIS, ARNULFO",M,8/15/1947,GUATEMALA,3/13/2010,(BOP) Oakdale,Pneumonia Complications,
-"RODRIGUEZ-TORRES, FELIX",M,10/31/1970,ECUADOR,1/18/2007,Eloy Detention Center,Germ Cell Tumor with Metastasis,
-"RODRIGUEZ, JOSE RANGEL",M,11/8/1971,GUATEMALA,3/3/2004,Kern Co. Jail Bakersfield,Histoplasmosis Sepsis,
-"RODRIGUEZ, LESLIS",M,50,HONDURAS,7/31/2013,Port Isabel SPC,Natural Causes,
-"ROJAS-MARTINEZ, RICARDO",M,6/28/1958,MEXICO,12/19/2011,Houston Contract Detention Facility,Heart Attack,
-"ROMERO, NERY",M,4/9/1984,EL SALVADOR,12/2/2007,Bergen County Jail,Asphyxia,
-"ROSELL SIERRA, JOSE",M,12/25/1933,CUBA,8/1/2005,(BOP) Forth Worth Federal Medical Center,Pneumonia,
+Medical Center",Pulmonary Embolus and Cardiac Arrest
+"POPOOLA, ADETUNJI",M,8/10/1955,NIGERIA,2/2/2004,Dallas County Jail,Cardia Arrhythmia
+"PRADO-ARENCILIA, REINALDO",M,11/10/1967,CUBA,3/10/2005,Houston Contract Detention Facility,Seizure Disorder of Unknown Etiology
+"RAMIREZ-RAMIREZ, ANIBAL",M,4/15/1976,EL SALVADOR,2/10/2011,Immigration Centers of America Farmville,Liver Failure
+"RAMIREZ-REYES, VICTOR",M,4/25/1955,ECUADOR,9/26/2011,elizabeth contract detention facility,Hypertensive andatherosclerotic cardiovascular disease
+"REYES-ALTIMIRANO, SIMON",M,3/24/1979,HONDURAS,12/10/2004,el paso service processing center,Brain Tumor
+"REYES-ZALAYA, JOSE NELSON",M,1/15/1982,EL SALVADOR,7/17/2010,Orleans Parish Sheriff,Cancer
+"RIOZ-MARTINEZ, CEZAR",M,9/9/1978,MEXICO,2/13/2004,Frio County Jail,Asphyxia
+"RIVERA-ROMERO, MAURO",M,1/10/1968,EL SALVADOR,5/10/2011,el paso service processing center,HIV complications (presumed)
+"ROCKWELL, PETER GEORGE CARLYSLE",M,46,CANADA,2/22/2014,Houston Contract Detention Facility,Hypertensive Cardiovascular Disease
+"RODRIGUEZ CASTRO, WALTER",M,6/21/1977,EL SALVADOR,4/23/2006,Kern Co. Jail Bakerfield,Cryptocaccal Meningitis
+"RODRIGUEZ-GONZALEZ, MIGUEL",M,1/19/1930,MEXICO,5/21/2006,San Pedro SPC,Sequelae of Chronic Renal Failure
+"RODRIGUEZ-SOLIS, ARNULFO",M,8/15/1947,GUATEMALA,3/13/2010,(BOP) Oakdale,Pneumonia Complications
+"RODRIGUEZ-TORRES, FELIX",M,10/31/1970,ECUADOR,1/18/2007,Eloy Detention Center,Germ Cell Tumor with Metastasis
+"RODRIGUEZ, JOSE RANGEL",M,11/8/1971,GUATEMALA,3/3/2004,Kern Co. Jail Bakersfield,Histoplasmosis Sepsis
+"RODRIGUEZ, LESLIS",M,50,HONDURAS,7/31/2013,Port Isabel SPC,Natural Causes
+"ROJAS-MARTINEZ, RICARDO",M,6/28/1958,MEXICO,12/19/2011,Houston Contract Detention Facility,Heart Attack
+"ROMERO, NERY",M,4/9/1984,EL SALVADOR,12/2/2007,Bergen County Jail,Asphyxia
+"ROSELL SIERRA, JOSE",M,12/25/1933,CUBA,8/1/2005,(BOP) Forth Worth Federal Medical Center,Pneumonia
 "RUIZ-TABARES, ERVIN",M,3/25/1980,COLOMBIA,9/25/2004,"(BOP) Guaynabo
-Metropolitan Detention Center",Asphyxia,
-"RUST, RICHARD",M,4/5/1970,JAMAICA,5/29/2004,(BOP) Oakdale,Cardiac Arrythmia,
-"Saengsiri, Thongchay",M,65,Laos,3/18/2016,LaSalle Detention Facility,Heart attack,
-"SALAZAR-GOMEZ, JUAN",M,6/24/1976,MEXICO,12/14/2005,Eloy Detention Center,Asphyxia,
-"SANCHEZ-RODRIGUEZ, SERGIO",M,9/9/1951,CUBA,10/30/2005,(BOP) Butner Medical Center - Butner,Metastic Carcinoma of Lung,
+Metropolitan Detention Center",Asphyxia
+"RUST, RICHARD",M,4/5/1970,JAMAICA,5/29/2004,(BOP) Oakdale,Cardiac Arrythmia
+"Saengsiri, Thongchay",M,65,Laos,3/18/2016,LaSalle Detention Facility,Heart attack
+"SALAZAR-GOMEZ, JUAN",M,6/24/1976,MEXICO,12/14/2005,Eloy Detention Center,Asphyxia
+"SANCHEZ-RODRIGUEZ, SERGIO",M,9/9/1951,CUBA,10/30/2005,(BOP) Butner Medical Center - Butner,Metastic Carcinoma of Lung
 "SANTOS MAIDIQUI, ALBERTO",M,10/31/1948,CUBA,11/18/2008,"(BOP) Springfield Federal
-Medical Center",Electrocution,
-"SARABIA-ORTEGA, MIGUEL ANGEL",M,7/27/1975,MEXICO,1/17/2012,Las Vegas Hold Room,Methemphetamine Intoxication,
-"SARABIA-VALLASENOR, IGNACIO",M,7/31/1972,MEXICO,4/1/2005,Otay Detention Facility,Cardiac Arrest,
-"SATKUNES-WARAN, KANDIAH",M,5/6/1964,SRI LANKA,4/17/2004,Middlesex County Jail,Natural Causes,
-"SAYLAB, HADAYATULLAH",M,6/21/1950,AFGHANISTAN,11/24/2008,Otero County Jail,Lung Cancer,
-"SEGUNDO, JOSE MANUEL",M,2/28/1969,PANAMA,12/23/2010,Krome Service Processing Center,Blood Cancer,
-"SIERRA-SANCHEZ, SANTIAGO",M,2/14/1976,MEXICO,12/7/2014,Utah County Jail,Staphylococcus aureus infection,
-"SINGH, BHUPINDER",M,1/3/1956,INDIA,9/21/2004,Columbia Care Center,End Stage Renal Disease,
-"SINGH, JAMER",M,11/8/1965,INDIA,9/20/2006,Lerdo Pretrail Facility,Severe Atherosclerotic Heart Disease,
-"SMITH, GLASTON",M,2/16/1962,BRITISH VIRGIN ISLANDS,4/4/2013,Guaynabo MDC (San Juan),Pending,
-"SOCA-ROS, OTALIO",M,12/3/1981,CUBA,8/23/2004,Krome Service Processing Center,Hypertensive Cardiovascular Disease,
-"SOLIS-PEREZ, MARIA",F,10/20/1959,EL SALVADOR,6/3/2004,Jefferson County Jail,SubarachnoidHemorrhage due to Ruptured Berry,
-"STERLING, JOHN",M,11/14/1955,JAMAICA,6/11/2010,(BOP) Oakdale Federal Detention Center,Sepsis,
-"STOJKA, VERA",F,10/20/1952,CZECH REPUBLIC,7/24/2009,hudson county correctional facility,Liver Cancer,
-"SUARES-ALMENARES, ARTURO",M,11/11/1935,CUBA,3/3/2008,Middlesex County Jail,Hypertensive andarteriosclerotic cardiovascular disease,
-"TAVAREZ, PEDRO JUAN",M,7/25/1960,DOMINICAN REPUBLIC,10/19/2009,suffolk county house of corrections,Heart Failure,
-"TOMANEK, OLDRICH",M,51,CZECH REPUBLIC,4/25/2013,Rolling Plains Detention Center,Bilateral pulmonary thromboembli,
-"TUNON-ABEAL, JOSE",M,4/7/1952,CUBA,5/21/2005,Tensas Parish Detention Center,Acute Renal Failure,
-"UMANA-MARTINEZ, JORGE ALBERTO",M,11/20/1966,EL SALVADOR,10/30/2014,South Texas Detention Complex,Sepsis,
-"VALASQUEZ, AMBROCIO",M,12/19/1965,GUATEMALA,6/27/2008,Perry County Correctional Ctr,Cardiopulmonary Arrest,
-"VARGAS, NHUNG",F,9/23/1968,VIETNAM,8/6/2005,Harris County Jail,Cardiac Arrest,
-"VERDECIA-CARRILLO, HERIBERTO",M,3/16/1963,CUBA,7/10/2003,(BOP) Atwater,Acute ThromboticOcclusion Left Descending Coronary Artery,
-"ZAROU, JOSE",M,10/18/1948,ARGENTINA,1/11/2004,Wicomico County Corrections Center,Cardiac Tamponade,
+Medical Center",Electrocution
+"SARABIA-ORTEGA, MIGUEL ANGEL",M,7/27/1975,MEXICO,1/17/2012,Las Vegas Hold Room,Methemphetamine Intoxication
+"SARABIA-VALLASENOR, IGNACIO",M,7/31/1972,MEXICO,4/1/2005,Otay Detention Facility,Cardiac Arrest
+"SATKUNES-WARAN, KANDIAH",M,5/6/1964,SRI LANKA,4/17/2004,Middlesex County Jail,Natural Causes
+"SAYLAB, HADAYATULLAH",M,6/21/1950,AFGHANISTAN,11/24/2008,Otero County Jail,Lung Cancer
+"SEGUNDO, JOSE MANUEL",M,2/28/1969,PANAMA,12/23/2010,Krome Service Processing Center,Blood Cancer
+"SIERRA-SANCHEZ, SANTIAGO",M,2/14/1976,MEXICO,12/7/2014,Utah County Jail,Staphylococcus aureus infection
+"SINGH, BHUPINDER",M,1/3/1956,INDIA,9/21/2004,Columbia Care Center,End Stage Renal Disease
+"SINGH, JAMER",M,11/8/1965,INDIA,9/20/2006,Lerdo Pretrail Facility,Severe Atherosclerotic Heart Disease
+"SMITH, GLASTON",M,2/16/1962,BRITISH VIRGIN ISLANDS,4/4/2013,Guaynabo MDC (San Juan),Pending
+"SOCA-ROS, OTALIO",M,12/3/1981,CUBA,8/23/2004,Krome Service Processing Center,Hypertensive Cardiovascular Disease
+"SOLIS-PEREZ, MARIA",F,10/20/1959,EL SALVADOR,6/3/2004,Jefferson County Jail,SubarachnoidHemorrhage due to Ruptured Berry
+"STERLING, JOHN",M,11/14/1955,JAMAICA,6/11/2010,(BOP) Oakdale Federal Detention Center,Sepsis
+"STOJKA, VERA",F,10/20/1952,CZECH REPUBLIC,7/24/2009,hudson county correctional facility,Liver Cancer
+"SUARES-ALMENARES, ARTURO",M,11/11/1935,CUBA,3/3/2008,Middlesex County Jail,Hypertensive andarteriosclerotic cardiovascular disease
+"TAVAREZ, PEDRO JUAN",M,7/25/1960,DOMINICAN REPUBLIC,10/19/2009,suffolk county house of corrections,Heart Failure
+"TOMANEK, OLDRICH",M,51,CZECH REPUBLIC,4/25/2013,Rolling Plains Detention Center,Bilateral pulmonary thromboembli
+"TUNON-ABEAL, JOSE",M,4/7/1952,CUBA,5/21/2005,Tensas Parish Detention Center,Acute Renal Failure
+"UMANA-MARTINEZ, JORGE ALBERTO",M,11/20/1966,EL SALVADOR,10/30/2014,South Texas Detention Complex,Sepsis
+"VALASQUEZ, AMBROCIO",M,12/19/1965,GUATEMALA,6/27/2008,Perry County Correctional Ctr,Cardiopulmonary Arrest
+"VARGAS, NHUNG",F,9/23/1968,VIETNAM,8/6/2005,Harris County Jail,Cardiac Arrest
+"VERDECIA-CARRILLO, HERIBERTO",M,3/16/1963,CUBA,7/10/2003,(BOP) Atwater,Acute ThromboticOcclusion Left Descending Coronary Artery
+"ZAROU, JOSE",M,10/18/1948,ARGENTINA,1/11/2004,Wicomico County Corrections Center,Cardiac Tamponade

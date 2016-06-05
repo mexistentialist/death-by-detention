@@ -3,12 +3,10 @@
 <div class="col-1-2 col-sm-6 hero-feature">
 <table class="table table-hover">
 	<tbody>
-		<tr colspan="2">
-			<td><%= @detention_center.address_1 %><br><%=@detention_center.city.titleize%>, <%= @detention_center.state %></td>
-		</tr>
-		<tr colspan="2">
-			<td><%= @detention_center.county.titleize %> County</td>
-		</tr>
+		<tr >
+			<td colspan="2"><h3><%= @detention_center.address_1 %>, <%=@detention_center.city.titleize%>, <%= @detention_center.state %></h3></td>
+<!-- 			<td><h3><%= @detention_center.county.titleize %> County</h3></td>
+ -->		</tr>
 		<tr>
 			<td>Detention Standards:</td>
 			<td><%= @detention_center.det_standard %></td>
@@ -17,12 +15,14 @@
 			<td>Contract Type:</td>
 			<td><%= @detention_center.type_contract %></td>
 		</tr>
-		<tr colspan="2" align="center">
-			<td><h2><%= @detention_center.operator.name %></h2></td>
+		<tr>
+			<td colspan="2" align="center"><h2><u>Operator</u></h2></td>
+		</tr>
+		<tr>
+			<td colspan="2"><h1><%= @detention_center.operator.name %></h1></td>
 		</tr>
 	</tbody>
 </table>
-<h2><%= @detention_center.operator.name %></h2>
 </div>
 
 <div class="col-1-2 col-sm-6 hero-feature"><h3><%= @detention_center.deaths[0].first_name %></h3></div>

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160604210657) do
+ActiveRecord::Schema.define(version: 20160605044045) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -42,6 +42,10 @@ ActiveRecord::Schema.define(version: 20160604210657) do
     t.string   "country_of_origin"
     t.datetime "created_at",          null: false
     t.datetime "updated_at",          null: false
+    t.string   "birthdate"
+    t.string   "sex"
+    t.string   "name"
+    t.string   "det_center"
   end
 
   create_table "detention_centers", force: :cascade do |t|
@@ -54,11 +58,13 @@ ActiveRecord::Schema.define(version: 20160604210657) do
     t.string   "county"
     t.integer  "operator_id"
     t.integer  "avg_lngth_stay"
-    t.decimal  "per_diem",       precision: 5, scale: 2
+    t.string   "per_diem"
     t.string   "det_standard"
     t.string   "type_contract"
-    t.datetime "created_at",                             null: false
-    t.datetime "updated_at",                             null: false
+    t.datetime "created_at",     null: false
+    t.datetime "updated_at",     null: false
+    t.integer  "pop_count"
+    t.string   "inspection"
   end
 
   create_table "hrv_reports", force: :cascade do |t|

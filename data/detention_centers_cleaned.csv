@@ -1,4 +1,4 @@
-Name,Address,City,County,State,Type Detailed,Population Count,Facility Operator,Facility Owner,Per Diem Rate Detailed,Last Inspection Standard,Last Inspection Rating - Final
+name,address_1,city,county,state,type_contract,pop_count,address_2,operator_id,per_diem,det_standard,inspection
 Adelanto Detention Facility,10250 Rancho Road,Adelanto,San Bernardino,CA,DIGSA,1482,GEO,CITY,"1455 (GM); $111.92 (1-1455), $42.36 (1456-1940)",PBNDS 2011,Pending
 Albany County Jail,840 Albany Shaker Road,Albany,Kings,NY,USMS IGA,39,COUNTY (SHERIFF),COUNTY,$119.3,NDS,Acceptable
 Alhambra City Jail,211 S. First St.,Alhambra,Los Angeles,CA,USMS IGA,0,CITY,CITY,$85,NDS,Acceptable
