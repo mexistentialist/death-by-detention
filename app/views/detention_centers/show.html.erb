@@ -1,3 +1,28 @@
-<header class="jumbotron hero-spacer"><%= @detention_center.name %></header>
+<header class="jumbotron hero-spacer" align="center"><h1><%= @detention_center.name %></h1></header>
+
+<div class="col-1-2 col-sm-6 hero-feature">
+<table class="table table-hover">
+	<tbody>
+		<tr colspan="2">
+			<td><%= @detention_center.address_1 %><br><%=@detention_center.city.titleize%>, <%= @detention_center.state %></td>
+		</tr>
+		<tr colspan="2">
+			<td><%= @detention_center.county.titleize %> County</td>
+		</tr>
+		<tr>
+			<td>Detention Standards:</td>
+			<td><%= @detention_center.det_standard %></td>
+		</tr>
+		<tr>
+			<td>Contract Type:</td>
+			<td><%= @detention_center.type_contract %></td>
+		</tr>
+		<tr colspan="2" align="center">
+			<td><h2><%= @detention_center.operator.name %></h2></td>
+		</tr>
+	</tbody>
+</table>
 <h2><%= @detention_center.operator.name %></h2>
-<h3><%= @detention_center.deaths[0].first_name %></h3>
+</div>
+
+<div class="col-1-2 col-sm-6 hero-feature"><h3><%= @detention_center.deaths[0].first_name %></h3></div>

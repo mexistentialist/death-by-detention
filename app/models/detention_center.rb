@@ -6,5 +6,5 @@ class DetentionCenter < ActiveRecord::Base
 	has_many :repercussions
 	belongs_to :operator
 
-	
+
 end
