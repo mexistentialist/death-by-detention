@@ -1,7 +1,7 @@
 Name,SEX,AGE,Country Of Birth,DATE OF DEATH,Detention Center,CAUSE OF DEATH
 "Abdeulaye, Sall",M,4/27/1956,Guinea,2/12/2006,Piedmont Regional Jail,Hemoperitoneum due tospontaneous rupture of right renal vein
 "Aguilar-Espinoza, Jose",M,11/1/1955,Honduras,1/31/2011,Theo Lacy Facility,Natural Causes
-"Ahmad, Tanveer",M,2/3/1962,Pakistan,9/9/2005,Monmouth County Jail,Occlusive Coronary Atherosclerosis
+"Ahmad, Tanveer",M,2/3/1962,Pakistan,9/9/2005,Monmouth County Correctional Institution,Occlusive Coronary Atherosclerosis
 "Alonso, Juan",M,9/14/1930,Guatemala,1/8/2004,Columbia Care Center,Renal Failure
 "Alvarez Arias, Jose De La Concepcion",M,12/8/1957,Cuba,10/3/2004,(Bop) Allenwood Federal Correctional Institute,Metastic Renal Clear Cell Carcinoma
 "Alvarez Gomez, Jose",M,5/18/1979,Honduras,12/27/2008,Lasalle Detention Facility,Seizure
@@ -12,7 +12,7 @@ Name,SEX,AGE,Country Of Birth,DATE OF DEATH,Detention Center,CAUSE OF DEATH
 Medical Center",Renal Failure
 "Azurida-Hernandez, Jose Manuel",M,54,Guatemala,12/24/2015,Adelanto Detention Facility,Heart attack
 "Bah, Boubacar",M,1/1/1955,Guinea,5/30/2007,Elizabeth Contract Detention Facility,Traumatic Brain Injury
-"Baires, Juan",M,4/27/1982,El Salvador,12/11/2008,Kern Co. Jail Bakerfield,Self-Sustained Head Injuries
+"Baires, Juan",M,4/27/1982,El Salvador,12/11/2008,Kern County Jail,Self-Sustained Head Injuries
 "Bamenga, Irene",F,11/10/1981,Angola,7/27/2011,Albany County Jail,Cardiomyopathy
 "Banegas-Guzman, Saul Enrique",M,46,Honduras,1/25/2016,Lasalle Detention Facility,Cardiac arrest (preliminary cause of death)
 "Barcenas-Padilla, Rafael",M,50,Mexico,4/8/2016,Unknown,Pneumonia
@@ -126,11 +126,11 @@ Medical Center",Pulmonary Embolus and Cardiac Arrest
 "Rioz-Martinez, Cezar",M,9/9/1978,Mexico,2/13/2004,Frio County Jail,Asphyxia
 "Rivera-Romero, Mauro",M,1/10/1968,El Salvador,5/10/2011,El Paso Service Processing Center,HIV complications (presumed)
 "Rockwell, Peter George Carlysle",M,46,Canada,2/22/2014,Houston Contract Detention Facility,Hypertensive Cardiovascular Disease
-"Rodriguez Castro, Walter",M,6/21/1977,El Salvador,4/23/2006,Kern Co. Jail Bakerfield,Cryptocaccal Meningitis
+"Rodriguez Castro, Walter",M,6/21/1977,El Salvador,4/23/2006,Kern County Jail,Cryptocaccal Meningitis
 "Rodriguez-Gonzalez, Miguel",M,1/19/1930,Mexico,5/21/2006,San Pedro Spc,Sequelae of Chronic Renal Failure
 "Rodriguez-Solis, Arnulfo",M,8/15/1947,Guatemala,3/13/2010,(Bop) Oakdale,Pneumonia Complications
 "Rodriguez-Torres, Felix",M,10/31/1970,Ecuador,1/18/2007,Eloy Detention Center,Germ Cell Tumor with Metastasis
-"Rodriguez, Jose Rangel",M,11/8/1971,Guatemala,3/3/2004,Kern Co. Jail Bakersfield,Histoplasmosis Sepsis
+"Rodriguez, Jose Rangel",M,11/8/1971,Guatemala,3/3/2004,Kern County Jail,Histoplasmosis Sepsis
 "Rodriguez, Leslis",M,50,Honduras,7/31/2013,Port Isabel Spc,Natural Causes
 "Rojas-Martinez, Ricardo",M,6/28/1958,Mexico,12/19/2011,Houston Contract Detention Facility,Heart Attack
 "Romero, Nery",M,4/9/1984,El Salvador,12/2/2007,Bergen County Jail,Asphyxia
