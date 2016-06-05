@@ -19,9 +19,15 @@ def main():
 	deaths_csv = csv.reader(open(inmate_deaths_filepath, 'r'))
 	centers_csv = csv.reader(open(detention_centers_filepath, 'r'))
 	output_csv = csv.writer(open(out_filepath, 'w'))
-
 	missing_csv = csv.writer(open('missing.csv', 'w'))
 
+	output_csv.writerow((
+		'NAME', 'SEX',
+		'AGE', 'COUNTRY OF BIRTH', 'DATE OF DEATH', 'DETENTION CENTER',
+		'CAUSE OF DEATH', 'Facility', 'Address', 'City', 'County', 'State',
+		'Type Detailed', 'Population Count', 'Facility Operator', 'Facility Owner',
+		'Per Diem Rate Detailed', 'Last Inspection Standard', 'Last Inspection Rating - Final'
+	))
 	detention_centers = {}
 
 	for row in centers_csv:
