@@ -4,4 +4,6 @@ Rails.application.routes.draw do
 
   get '/detention_center/:id' => 'detention_centers#show', as: :detention_center_show
 
+  get '/about' => 'detention_centers#index', as: :about_page
+
 end
