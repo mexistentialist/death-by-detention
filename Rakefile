@@ -14,7 +14,7 @@ namespace :defaultuser do
 	end
 
 	task :import => :environment do
-	CSV.foreach('data/inmate_deaths.csv', :headers => true) do |row|
+	CSV.foreach('data/inmate_deaths_cleaned.csv', :headers => true) do |row|
 		Death.create!(row.to_hash)
 		puts row
 	  end

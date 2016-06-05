@@ -1,4 +1,4 @@
-Name,SEX,AGE,Country Of Birth,DATE OF DEATH,Detention Center,CAUSE OF DEATH
+name,sex,birthdate,country_of_origin,date,det_center,cause
 "Abdeulaye, Sall",M,4/27/1956,Guinea,2/12/2006,Piedmont Regional Jail,Hemoperitoneum due tospontaneous rupture of right renal vein
 "Aguilar-Espinoza, Jose",M,11/1/1955,Honduras,1/31/2011,Theo Lacy Facility,Natural Causes
 "Ahmad, Tanveer",M,2/3/1962,Pakistan,9/9/2005,Monmouth County Correctional Institution,Occlusive Coronary Atherosclerosis
