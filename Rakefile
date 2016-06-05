@@ -6,12 +6,12 @@ require 'csv'
 require 'rake'
 
 namespace :defaultuser do
- #  task :import => :environment do 
-	# CSV.foreach('data/detention_centers_cleaned.csv', :headers => true) do |row|
- # 		DetentionCenter.create!(row.to_hash)
-	#   puts row
-	# 	end
-	# end
+  task :import => :environment do 
+	CSV.foreach('data/detention_centers_cleaned.csv', :headers => true) do |row|
+ 		DetentionCenter.create!(row.to_hash)
+	  puts row
+		end
+	end
 
 	task :import => :environment do
 	CSV.foreach('data/inmate_deaths.csv', :headers => true) do |row|

@@ -9,6 +9,8 @@ class DetentionCentersController < ApplicationController
 		@detention_center = DetentionCenter.find(params[:id])
 	end
 
-
+	def about
+		
+	end
 
 end
